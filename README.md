@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yafirifdah" alt="yafirifdah" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/shf" target="blank"><img src="https://img.shields.io/twitter/follow/shf?logo=twitter&style=for-the-badge" alt="shf" /></a> </p>
+
 - 🔭 I’m currently working on [mpamwwd](adawda)
 
 - 🌱 I’m currently learning **awdad**
@@ -25,8 +27,33 @@
 
 - ⚡ Fun fact **addsdaw**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ee" height="30" width="40" /></a>
+<a href="https://dev.to/sf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sf" height="30" width="40" /></a>
+<a href="https://twitter.com/shf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sef" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ee" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ssef" height="30" width="40" /></a>
+<a href="https://kaggle.com/eee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eee" height="30" width="40" /></a>
+<a href="https://fb.com/efsfse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efsfse" height="30" width="40" /></a>
+<a href="https://instagram.com/sf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sf" height="30" width="40" /></a>
+<a href="https://dribbble.com/sf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sf" height="30" width="40" /></a>
+<a href="https://www.behance.net/sfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sfs" height="30" width="40" /></a>
+<a href="https://hashnode.com/dfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dfs" height="30" width="40" /></a>
+<a href="https://medium.com/esfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="esfs" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/esf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="esf" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sdfse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sdfse" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/df" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="df" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ffsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ffsf" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/fsfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="fsfs" height="30" width="40" /></a>
+<a href="https://discord.gg/sfsesef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sfsesef" height="30" width="40" /></a>
+<a href="/sfsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sfsf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,3 +62,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yafirifdah&show_icons=true&locale=en&layout=compact" alt="yafirifdah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yafirifdah&show_icons=true&locale=en" alt="yafirifdah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yafirifdah&" alt="yafirifdah" /></p>
