@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yafi RIfdah Zayyan</h1>
 <h3 align="center">Mobile Developer,Full Stack Developer, Front End Developewe</h3>
 
+- 🔭 I’m currently working on [mpamwwd](adawda)
+
+- 🌱 I’m currently learning **awdad**
+
+- 👯 I’m looking to collaborate on [fawd](adwaw)
+
+- 🤝 I’m looking for help with [awdwa](awdawd)
+
+- 👨‍💻 All of my projects are available at [awda](awda)
+
+- 📝 I regularly write articles on [wdaw](wdaw)
+
+- 💬 Ask me about **awdaw**
+
+- 📫 How to reach me **awdawdawd**
+
+- 📄 Know about my experiences [adawd](adawd)
+
+- ⚡ Fun fact **addsdaw**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
